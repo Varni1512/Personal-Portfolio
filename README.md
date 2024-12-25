@@ -1,17 +1,16 @@
 # Dynamic Web Portfolio
 
-Welcome to the **Dynamic Web Portfolio** project! This portfolio website is designed to showcase personal or professional work with a visually appealing, interactive, and modern design. Built with HTML, CSS, and JavaScript, this portfolio is optimized for both mobile and desktop viewing, ensuring a smooth and engaging user experience.
+Welcome to the **Dynamic Web Portfolio** project! This portfolio website is designed to showcase personal or professional work with a visually appealing, interactive, and modern design. Built with HTML, CSS, and JavaScript, this portfolio is optimized for desktop viewing, ensuring a smooth and engaging user experience.
 
 ## **About**
 
-This portfolio demonstrates the latest web design trends and technologies to present projects, skills, services, and facilitate seamless communication with visitors. It uses smooth animations, interactive hover effects, and responsive layouts to create an engaging experience.
+This portfolio demonstrates the latest web design trends and technologies to present projects, skills, Education, and facilitate seamless communication with visitors. It uses smooth animations, interactive hover effects, and responsive layouts to create an engaging experience.
 
 ### Key Features
 - **Modern and Clean Design**: A sleek, dark theme with interactive hover effects and animations.
 - **Smooth Scroll**: Fluid navigation experience with smooth scrolling.
 - **Fixed Navigation Bar**: Easy access to the navigation menu, which stays fixed at the top while scrolling.
 - **Hero Section**: A full-screen background image with engaging text and Call to Action (CTA) buttons.
-- **Responsive Layout**: Fully responsive design for both mobile and desktop devices.
 - **Animated Content**: Eye-catching animations that trigger as the user scrolls, enhancing interactivity.
 - **Projects & Skills Showcase**: Display of skills, projects, and services with detailed descriptions and animations.
 - **Contact Form**: A simple way to get in touch with the portfolio owner via email or social media links.
@@ -33,9 +32,10 @@ This portfolio demonstrates the latest web design trends and technologies to pre
 4. **Skills Section**:
    - Grid-based layout showcasing the portfolio owner's skills, tools, and technologies used.
 
-5. **Services Section**:
-   - Detailed list of services offered, using icons and short descriptions.
-
+5. **Education Section**:
+   - Highlights the portfolio owner's educational background.
+   - Provides information on degrees, institutions, and percentage/cgpa.
+     
 6. **Projects Section**:
    - Grid of past projects with descriptions and links to live demos or GitHub repositories.
    - Projects categorized with clickable tech stack badges.
