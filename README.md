@@ -1,5 +1,5 @@
-Project Name: Dynamic Web Portfolio
-About
+# Portfolio
+** About ** 
 Welcome to the Dynamic Web Portfolio project! This project showcases a highly responsive and visually appealing portfolio website using modern web design techniques and technologies. The website is built with HTML, CSS, and JavaScript to provide a smooth user experience with stunning animations, transitions, and interactive features.
 
 This portfolio website is designed to present personal or professional work, display projects, skills, services, and facilitate seamless communication with visitors. It is optimized for both mobile and desktop viewing.
